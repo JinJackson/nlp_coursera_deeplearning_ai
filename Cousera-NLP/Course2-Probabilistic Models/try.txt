@@ -1,1 +1,0 @@
-try to test the git can be done in a directory
